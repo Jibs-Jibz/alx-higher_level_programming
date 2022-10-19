@@ -2,7 +2,6 @@
 
 ## General
 
-
 - Why Python programming is awesome
 - What is an object
 - What is the difference between a class and an object or instance
